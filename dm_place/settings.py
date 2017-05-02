@@ -26,7 +26,7 @@ SECRET_KEY = '_ii(^tb443_6_!z_&f1-#d*sl=pueuo4j#t$_q(_&vp4_^iah6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://digitalmp.herokuapp.com]
 
 
 # Application definition
